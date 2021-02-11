@@ -1,0 +1,38 @@
+/*
+ * MENU
+ * COLORS
+ * ALIGNMENTS
+ * GENERAL
+ * STYLES
+ */
+
+// *** COLORS ***
+$gray: #CCCCCC;
+
+// *** ALIGNMENTS ***
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+
+// *** GENEREAL ***
+
+.full-width {
+  width: 100%;
+}
+
+// *** NAVBAR ***
+
+.navbar {
+  border-top: 1px solid $gray;
+  border-bottom: 1px solid $gray;
+  padding: 5px 0px;
+}
